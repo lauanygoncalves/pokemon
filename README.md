@@ -43,3 +43,7 @@ _Nome, n°, peso, e altura_
 ## Inserindo Imagens
 
 No arquivo 'html' insire as imagens dentro da 'section'.
+
+## Tela do site da API Pokemon funcionado
+
+![pokemon](image.png)
