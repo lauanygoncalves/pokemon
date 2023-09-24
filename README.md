@@ -1,3 +1,5 @@
+## "API POKEMON"
+
 # Criando um projeto React App
 
 `npx create-react-app pokemon`
@@ -44,6 +46,6 @@ _Nome, n°, peso, e altura_
 
 No arquivo 'html' insire as imagens dentro da 'section'.
 
-## Tela do site da API Pokemon funcionado
+## Tela do site "API Pokemon" funcionando
 
-![pokemon](image.png)
+![Pokemon](<public/Tela Pokemon API.png>)
